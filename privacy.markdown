@@ -14,7 +14,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 **Information Collection and Use**\
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Name, Email. The information that I request will be retained on your device and is not collected by me in any way.
 The app does use third-party services that may collect information used to identify you.
-Link to the privacy policy of third-party service providers used by the app\
+Link to the privacy policy of third-party service providers used by the app
 1. [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 2. [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 3. [Mixpanel](https://mixpanel.com/legal/privacy-policy/)
