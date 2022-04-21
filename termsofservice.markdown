@@ -15,6 +15,7 @@ Link to Terms and Conditions of third-party service providers used by the app
 1. [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)
 2. [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 3. [Mixpanel](https://mixpanel.com/legal/terms-of-use/)
+
 The app does not have tolerance for objectionable content or abusive users. By reporting posts or blocking users through the app, it will automatically hide content from you. All reported content and blocked users will be reviewed. Necessary actions will be taken accordingly within 24 hours; either deletion or ejection from the app.
  
 You should be aware that there are certain things that Lyle Jover will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi or provided by your mobile network provider, but Lyle Jover cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
