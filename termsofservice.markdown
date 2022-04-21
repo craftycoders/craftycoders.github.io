@@ -16,8 +16,6 @@ Link to Terms and Conditions of third-party service providers used by the app
 2. [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 3. [Mixpanel](https://mixpanel.com/legal/terms-of-use/)
 
-The app does not have tolerance for objectionable content or abusive users. By reporting posts or blocking users through the app, it will automatically hide content from you. All reported content and blocked users will be reviewed. Necessary actions will be taken accordingly within 24 hours; either deletion or ejection from the app.
- 
 You should be aware that there are certain things that Lyle Jover will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi or provided by your mobile network provider, but Lyle Jover cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
  
 If you’re using the app outside of an area with Wi-Fi, you should remember that the terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third-party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.
@@ -25,7 +23,11 @@ If you’re using the app outside of an area with Wi-Fi, you should remember tha
 Along the same lines, Lyle Jover cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, Lyle Jover cannot accept responsibility.
  
 With respect to Lyle Jover’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavor to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. Lyle Jover accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
+
 At some point, we may wish to update the app. The app is currently available on iOS – the requirements for the system(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Lyle Jover does not promise that it will always update the app so that it is relevant to you and/or works with the iOS version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
+
+**Content Policy**\
+The app does not have tolerance for objectionable content or abusive users. Users have to ability to report posts or block other users through the app and will automatically filter out unwanted content. Moreover, all reported content and blocked users will be reviewed. Necessary actions will be taken accordingly within 24 hours; either deletion or ejection from the app.
  
 **Changes to This Terms and Conditions**\
 I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page.
