@@ -4,7 +4,6 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-Privacy Policy
 Lyle Jover built the Fynds app as a Free app. This SERVICE is provided by Lyle Jover at no cost and is intended for use as is.
  
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
